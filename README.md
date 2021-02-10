@@ -30,13 +30,13 @@ My name is Coen den Heijer and I'm a developer. I'm from the Netherlands, living
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharpTshark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/sharpTshark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharpTshark&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/sharpTshark/Kwatch_Front-End">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharpTshark&repo=Kwatch_Front-End&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/sharpTshark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharpTshark&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharpTshark&repo=partygames&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
