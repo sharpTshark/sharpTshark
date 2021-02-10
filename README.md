@@ -27,7 +27,7 @@ My name is Coen den Heijer and I'm a developer. I'm from the Netherlands, living
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpTshark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/sharpTshark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharpTshark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharpTshark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="sharpTshark's GitHub Stats" />
 </a>
 
 <a href="https://github.com/sharpTshark/Kwatch_Front-End">
