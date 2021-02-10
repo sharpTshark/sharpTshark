@@ -6,10 +6,6 @@
 
 My name is Coen den Heijer and I'm a developer. I'm from the Netherlands, living in the center of the country. You can find me on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -61,7 +57,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.linkedin.com/in/coen-den-heijer-0544471a5/
 
 
 <!-- Resources -->
