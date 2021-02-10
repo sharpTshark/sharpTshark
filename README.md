@@ -35,7 +35,7 @@ My name is Coen den Heijer and I'm a developer. I'm from the Netherlands, living
 </a>
 
 
-<a href="https://github.com/sharpTshark">
+<a href="https://github.com/sharpTshark/partygames">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharpTshark&repo=partygames&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
